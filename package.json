@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "microgen-v3-sdk": "^0.8.12"
+  }
+}
